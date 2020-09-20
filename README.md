@@ -5,3 +5,10 @@ Olá usuário - conteúdo de aula
 
 Faça um programa que exiba `Olá Uruário`
 
+**Como executar**
+
+Acesse a pasta do projeto e digite:
+
+```
+dotnet run
+```
